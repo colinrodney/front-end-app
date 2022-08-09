@@ -1,0 +1,11 @@
+What we need for budget app classes (blueprint)
+
+1. Each expense will have:
+    a. An expense name
+    b. an input field to enter amount of expense
+class name: input fields
+properties: name, amount
+
+1. Income field will have:
+    a.Name of field / section
+    b. input field to enter amt of monthly Income
